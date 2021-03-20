@@ -1,0 +1,70 @@
+body{
+	background-image: url(fondo.jpg);
+	background-size: cover;
+}
+.titulo{
+position: absolute;
+font-family: 'Berkshire Swash', cursive;
+top: 10px;
+left: 450px;
+color:#9D7348;
+font-size: 40px;
+}
+.boton
+{
+position: absolute;
+background-image: url(boton.png);
+border:#E4F13B 10px double;
+top: 160px;
+left:400px;
+width:230px ;
+height:60px;
+font-family: 'Antic Slab', serif;
+font-size: 35px;
+}
+.boton1
+{
+position: absolute;
+background-image: url(boton1.png);
+border:#E4F13B 10px double;
+top: 160px;
+left:800px;
+width:230px ;
+height:60px;
+font-family:'Antic Slab', serif;
+font-size: 35px;
+}
+.comentario{
+background-image: url(comentario.png);
+position: absolute;
+top:390px;
+left:440px;
+height:290px;
+width:650px ;
+font-family: 'Courgette', cursive;
+font-size:29px;
+}
+.b{
+position: absolute;
+top: 300px;
+left: 510px;
+color: #D6995B;
+font-size:80px;
+font-family: 'Berkshire Swash', cursive;
+}
+.c{
+position: absolute;
+top: 800px;
+left: 250px;
+color: #D6995B;
+font-size:80px;
+font-family: 'Berkshire Swash', cursive;
+}
+.uno{
+position: absolute;
+top:900px;
+}
+.dos{
+position: absolute;
+top:1500px;
+}
